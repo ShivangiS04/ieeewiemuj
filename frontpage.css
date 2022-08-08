@@ -17,11 +17,6 @@ a{
 }
 
 
-a:active, a:focus{
-  text-decoration: none;
-}
-
-
 /* navigation bar css starts */
 
 .navigation-bar{
@@ -202,9 +197,10 @@ header{
   transform: scale(1.2);
 }
 
-
+.join-us-button a,
+.join-us-button a:focus,
 .join-us-button a:active{
-  color: #fc6d6d;
+  color: #451f55;
 }
 
 /* animation area css ends*/
