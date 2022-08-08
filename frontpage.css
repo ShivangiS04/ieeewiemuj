@@ -703,6 +703,10 @@ ul{
     font-size: 0.9rem;
     padding:15px;
   }
+  
+  .join-us-button a:active{
+    color: #fc6d6d;
+  }
 
   /* animation area ends */
 
